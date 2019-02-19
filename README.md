@@ -2,4 +2,4 @@
 
 Sample of GIF
 
-![](Feb-19-2562 11-38-10.gif)
+![](https://github.com/hatoriz/mypowerlevel9k/blob/master/Feb-19-2562%2011-38-10.gif)
